@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
+## Math
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/yeinci/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/yeinci/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/yeinci/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
