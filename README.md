@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/yeinci/LeetHub/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/yeinci/LeetHub/tree/master/0198-house-robber) |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
 ## Breadth-First Search
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/yeinci/LeetHub/tree/master/0135-candy) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/yeinci/LeetHub/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
