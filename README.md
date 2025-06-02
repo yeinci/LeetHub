@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yeinci/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
@@ -36,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yeinci/LeetHub/tree/master/0198-house-robber) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
