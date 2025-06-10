@@ -63,8 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yeinci/LeetHub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yeinci/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yeinci/LeetHub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yeinci/LeetHub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
