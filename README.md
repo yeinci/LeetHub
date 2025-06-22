@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yeinci/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yeinci/LeetHub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yeinci/LeetHub/tree/master/1236-n-th-tribonacci-number) |
+| [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
