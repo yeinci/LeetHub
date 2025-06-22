@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeinci/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yeinci/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yeinci/LeetHub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yeinci/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yeinci/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeinci/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
