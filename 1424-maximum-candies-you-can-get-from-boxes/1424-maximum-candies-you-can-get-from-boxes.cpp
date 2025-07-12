@@ -24,7 +24,6 @@ public:
     }
     int openBox (int box, vector<int>& status, vector<int>& boxes, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes) {
         int candy = candies[box];
-        cout << box << ". kutu BAŞLADI: " << candy << endl;
         for (int j = 0; j < keys[box].size(); j++) {
             int box_ = keys[box][j];
             if (boxes[box_] == 1) {
@@ -45,7 +44,6 @@ public:
                 boxes[box_] = 1;
             }
         }
-        cout << box << ". kutu BITTI: " << candy << endl;
         return candy;
     }
 };
