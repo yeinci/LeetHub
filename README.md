@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yeinci/LeetHub/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeinci/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yeinci/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yeinci/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeinci/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeinci/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
