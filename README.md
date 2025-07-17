@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yeinci/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yeinci/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/yeinci/LeetHub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yeinci/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yeinci/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
