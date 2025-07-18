@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yeinci/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yeinci/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1791-richest-customer-wealth](https://github.com/yeinci/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yeinci/LeetHub/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/yeinci/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
+| [1791-richest-customer-wealth](https://github.com/yeinci/LeetHub/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
