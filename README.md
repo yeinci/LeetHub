@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/yeinci/LeetHub/tree/master/0890-lemonade-change) |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
+| [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yeinci/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yeinci/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yeinci/LeetHub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/yeinci/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeinci/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yeinci/LeetHub/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/yeinci/LeetHub/tree/master/0135-candy) |
 | [0890-lemonade-change](https://github.com/yeinci/LeetHub/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeinci/LeetHub/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/yeinci/LeetHub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
+| [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yeinci/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
