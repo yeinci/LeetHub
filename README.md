@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yeinci/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yeinci/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/yeinci/LeetHub/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/yeinci/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeinci/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yeinci/LeetHub/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/yeinci/LeetHub/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yeinci/LeetHub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yeinci/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
