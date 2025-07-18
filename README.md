@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yeinci/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0135-candy](https://github.com/yeinci/LeetHub/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/yeinci/LeetHub/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/yeinci/LeetHub/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/yeinci/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeinci/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/yeinci/LeetHub/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/yeinci/LeetHub/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
