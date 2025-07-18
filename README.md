@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yeinci/LeetHub/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/yeinci/LeetHub/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/yeinci/LeetHub/tree/master/0300-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/yeinci/LeetHub/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/yeinci/LeetHub/tree/master/0890-lemonade-change) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/yeinci/LeetHub/tree/master/0682-baseball-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeinci/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Linked List
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeinci/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/yeinci/LeetHub/tree/master/0459-repeated-substring-pattern) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/yeinci/LeetHub/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
