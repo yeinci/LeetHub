@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yeinci/LeetHub/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/yeinci/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yeinci/LeetHub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yeinci/LeetHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yeinci/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yeinci/LeetHub/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yeinci/LeetHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yeinci/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yeinci/LeetHub/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeinci/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
