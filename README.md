@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/yeinci/LeetHub/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yeinci/LeetHub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeinci/LeetHub/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yeinci/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeinci/LeetHub/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yeinci/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yeinci/LeetHub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yeinci/LeetHub/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yeinci/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yeinci/LeetHub/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yeinci/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
