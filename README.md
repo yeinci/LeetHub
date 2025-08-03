@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/yeinci/LeetHub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/yeinci/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yeinci/LeetHub/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/yeinci/LeetHub/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yeinci/LeetHub/tree/master/0300-longest-increasing-subsequence) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Sorting
 |  |
 | ------- |
@@ -212,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/yeinci/LeetHub/tree/master/1349-check-if-it-is-a-straight-line) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Prefix Sum
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
