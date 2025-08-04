@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/yeinci/LeetHub/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/yeinci/LeetHub/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeinci/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/yeinci/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/yeinci/LeetHub/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yeinci/LeetHub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
+| [0940-fruit-into-baskets](https://github.com/yeinci/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeinci/LeetHub/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yeinci/LeetHub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/yeinci/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
