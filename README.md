@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yeinci/LeetHub/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/yeinci/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/yeinci/LeetHub/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/yeinci/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/yeinci/LeetHub/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/yeinci/LeetHub/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/yeinci/LeetHub/tree/master/0198-house-robber) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yeinci/LeetHub/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/yeinci/LeetHub/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/yeinci/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/yeinci/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeinci/LeetHub/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/yeinci/LeetHub/tree/master/1677-matrix-diagonal-sum) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yeinci/LeetHub/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/yeinci/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/yeinci/LeetHub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
