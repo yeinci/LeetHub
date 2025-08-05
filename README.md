@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yeinci/LeetHub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeinci/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yeinci/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeinci/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yeinci/LeetHub/tree/master/0682-baseball-game) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeinci/LeetHub/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeinci/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeinci/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/yeinci/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/yeinci/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
