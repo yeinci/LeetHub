@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/yeinci/LeetHub/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/yeinci/LeetHub/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/yeinci/LeetHub/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/yeinci/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeinci/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeinci/LeetHub/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
