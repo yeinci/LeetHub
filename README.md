@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/yeinci/LeetHub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yeinci/LeetHub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/yeinci/LeetHub/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/yeinci/LeetHub/tree/master/3791-fruits-into-baskets-iii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeinci/LeetHub/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/yeinci/LeetHub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/yeinci/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/yeinci/LeetHub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/yeinci/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yeinci/LeetHub/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/yeinci/LeetHub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
 |  |
 | ------- |
