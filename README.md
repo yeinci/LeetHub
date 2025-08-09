@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yeinci/LeetHub/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/yeinci/LeetHub/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeinci/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -273,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yeinci/LeetHub/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/yeinci/LeetHub/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
