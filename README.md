@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yeinci/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yeinci/LeetHub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/yeinci/LeetHub/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/yeinci/LeetHub/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yeinci/LeetHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yeinci/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yeinci/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yeinci/LeetHub/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeinci/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 ## String Matching
