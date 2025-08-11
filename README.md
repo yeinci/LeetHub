@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/yeinci/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/yeinci/LeetHub/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeinci/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2529-range-product-queries-of-powers](https://github.com/yeinci/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/yeinci/LeetHub/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yeinci/LeetHub/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/yeinci/LeetHub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeinci/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2529-range-product-queries-of-powers](https://github.com/yeinci/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 ## String Matching
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/yeinci/LeetHub/tree/master/2529-range-product-queries-of-powers) |
 ## Segment Tree
 |  |
 | ------- |
