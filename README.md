@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yeinci/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yeinci/LeetHub/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/yeinci/LeetHub/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/yeinci/LeetHub/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/yeinci/LeetHub/tree/master/0900-reordered-power-of-2) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/yeinci/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yeinci/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yeinci/LeetHub/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yeinci/LeetHub/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/yeinci/LeetHub/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/yeinci/LeetHub/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/yeinci/LeetHub/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yeinci/LeetHub/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeinci/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/yeinci/LeetHub/tree/master/2529-range-product-queries-of-powers) |
