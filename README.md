@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yeinci/LeetHub/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/yeinci/LeetHub/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/yeinci/LeetHub/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/yeinci/LeetHub/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/yeinci/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/yeinci/LeetHub/tree/master/1018-largest-perimeter-triangle) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/yeinci/LeetHub/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/yeinci/LeetHub/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeinci/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/yeinci/LeetHub/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yeinci/LeetHub/tree/master/1236-n-th-tribonacci-number) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/yeinci/LeetHub/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/yeinci/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeinci/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/yeinci/LeetHub/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/yeinci/LeetHub/tree/master/0867-new-21-game) |
 ## Divide and Conquer
 |  |
 | ------- |
