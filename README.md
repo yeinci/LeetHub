@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yeinci/LeetHub/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/yeinci/LeetHub/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/yeinci/LeetHub/tree/master/0300-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/yeinci/LeetHub/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/yeinci/LeetHub/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/yeinci/LeetHub/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/yeinci/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yeinci/LeetHub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yeinci/LeetHub/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/yeinci/LeetHub/tree/master/0445-add-two-numbers-ii) |
+| [0679-24-game](https://github.com/yeinci/LeetHub/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/yeinci/LeetHub/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/yeinci/LeetHub/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/yeinci/LeetHub/tree/master/0900-reordered-power-of-2) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yeinci/LeetHub/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/yeinci/LeetHub/tree/master/0190-reverse-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/yeinci/LeetHub/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
